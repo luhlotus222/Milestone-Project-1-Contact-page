@@ -1,8 +1,12 @@
 <!DOCTYPE HTML>
-<HTML>
-<Head>
-  <Style>
+  <HTML lang="en">
+  <Head>
+    <style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, inital-scale=1.0">
     <Title>Contact Page</Title>
+    </head>
+  <style>
     body
     {
           display: flex;
@@ -25,14 +29,14 @@
       display: block;
       color: white;
       text-align: center;
-      padding: #px #px;
+      padding: 400px 400px;
       text-decoration: none;
       }
     li a:hover {
-      background-color: #color;
+      background-color: #pink;
       }
     </style>
-    </head>
+  
     <body>
   <ul>
     <li><a class="active" href="home">home</a></li>
